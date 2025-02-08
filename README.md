@@ -1,5 +1,4 @@
 
-```
 # 🔐 CipherLock – Simple File Encryption  
 
 CipherLock is a lightweight **AES-256 file encryption tool** that lets you **secure any file with a password**.  
@@ -11,10 +10,11 @@ CipherLock is a lightweight **AES-256 file encryption tool** that lets you **sec
 ## 📥 Download  
 👉 **[Download EXE](https://github.com/TayMcQuaya/CipherLock)** (Windows)  
 👉 **Run from Source:**  
+
 ```bash
 git clone https://github.com/TayMcQuaya/CipherLock 
 cd cipherlock  
-python encryptor.py  
+python encryption.py  
 ```
 
 ## ⚠️ Security Notice  
@@ -23,4 +23,4 @@ python encryptor.py
 
 ## 📜 License  
 MIT License – Free to use and modify.  
-```
+
